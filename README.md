@@ -7,6 +7,7 @@
   <a href="https://www.instagram.com/pixalwaysdaydream_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=p1stez9&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
 **p1stez9/p1stez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
