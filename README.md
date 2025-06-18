@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<div id="badges">
+  <a href="https://www.facebook.com/PatcharapongTanwaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/pixalwaysdaydream_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 **p1stez9/p1stez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
