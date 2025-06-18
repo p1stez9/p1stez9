@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div id="badges">
+<div id="badges" align="center>
   <a href="https://www.facebook.com/PatcharapongTanwaa/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
